@@ -1,4 +1,6 @@
-# CantonTreasuryVault - Programmable treasury account that auto-allocates idle capital into yield assets with policy controls and instant liquidity management
+# CantonTreasuryVault 
+
+Programmable treasury account that auto-allocates idle capital into yield assets with policy controls and instant liquidity management
 
 ## Target Audience
 - Institutional Treasurers: Corporate offices looking to earn more on their cash reserves.
